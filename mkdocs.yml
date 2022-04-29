@@ -22,6 +22,7 @@ docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
   - La page d'accueil : index.md
+  - Notre équipe : equipe.md
   - Un notebook jupyter : Notebook.ipynb
   # Référencer vos autres pages ci-dessus...
 
