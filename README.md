@@ -1,8 +1,4 @@
-# base_mkdocs_material
-Modèle de base pour produire un site web avec MkDocs et le thème Material
+Répertoire de l'équipe de terminale SI/NSI du lycée Notre Dame du Mur pour Course en Cours.
 
 
-> Le site est visible à l'adresse : [https://ericecmorlaix.github.io/base_mkdocs_material/](https://ericecmorlaix.github.io/base_mkdocs_material/)
-
-
-> Un tutoriel est associée à cet exemple : [https://ericecmorlaix.github.io/adn-Tutoriel_site_web/](https://ericecmorlaix.github.io/adn-Tutoriel_site_web/)
+> Le site web est visible à l'adresse : [https://ndmur-courseencours.github.io/Gwetur-Mor-laix/](https://ndmur-courseencours.github.io/Gwetur-Mor-laix/)
