@@ -1,6 +1,6 @@
 # Fichier de configuration du site à personnaliser
 ### Configuration minimale
-site_name: Gwetur-Mor-laix # Nom du site <70 caractères, apparait dans l'onglet du navigateur 
+site_name: Site de l'équipe de NDM à Morlaix pour Course en Cours # Nom du site <70 caractères, apparait dans l'onglet du navigateur 
 site_url:  https://ndmur-courseencours.github.io/Gwetur-Mor-laix/ # Adresse web principale de publication du site, à modifier au format https://votrePseudoGitHub.github.io/votreDepot/
 
 ### Configuration du dépôt
